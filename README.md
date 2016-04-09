@@ -2,65 +2,38 @@
 
 ##Utilizes the following:
 
-tmux
-
-tmux-mem/cpu (https://github.com/mixu/tmux-mem and https://github.com/mixu/tmux-cpu)
-
-weechat
+- tmux
+- tmux-mem/cpu (https://github.com/mixu/tmux-mem and https://github.com/mixu/tmux-cpu)
+- weechat
 
 # weechat scripts used
 
-buffers.pl
-
-iset.pl
-
-beep.pl
-
-autoauth.py
-
-autoconnect.py
-
-autojoin_on_invite.py
-
-automarkbuffer.py
-
-awaylog.pl
-
-bandwidth.py
-
-bufsize.py
-
-color_popup.pl
-
-colorize_lines.pl
-
-colorize_nicks.py
-
-irssi_awaylog.py
-
-keepnick.py
-
-lastfm.py
-
-leet.py
-
-logsize.py
-
-pushover.pl
-
-screen_away.py
-
-shortenurl.py
-
-stats_bar.pl
-
-sysinfo.pl
-
-typing_counter.py
-
-uname.py
-
-upside_down.py
+- buffers.pl
+- iset.pl
+- beep.pl
+- autoauth.py
+- autoconnect.py
+- autojoin_on_invite.py
+- automarkbuffer.py
+- awaylog.pl
+- bandwidth.py
+- bufsize.py
+- color_popup.pl
+- colorize_lines.pl
+- colorize_nicks.py
+- irssi_awaylog.py
+- keepnick.py
+- lastfm.py
+- leet.py
+- logsize.py
+- pushover.pl
+- screen_away.py
+- shortenurl.py
+- stats_bar.pl
+- sysinfo.pl
+- typing_counter.py
+- uname.py
+- upside_down.py
 
 ## status bar line:
 
