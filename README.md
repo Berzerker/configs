@@ -1,12 +1,16 @@
 # my configs
 
-##Utilizes the following:
+# required packages
 
 - tmux
 - tmux-mem/cpu (https://github.com/mixu/tmux-mem and https://github.com/mixu/tmux-cpu)
 - weechat
 
-# weechat scripts used
+# tmux
+
+# weechat
+
+## scripts used
 
 - buffers.pl
 - iset.pl
