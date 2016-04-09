@@ -8,6 +8,10 @@
 
 # tmux
 
+## screenshot of the status bar
+
+![screenshot of status bar](http://i.imgur.com/oZdTw6s.png "screenshot")
+
 # weechat
 
 ## scripts used
@@ -44,3 +48,4 @@
 It's in the config, but for ease, here it is, customizable as you like.
 
 `status.items = "[buffer_plugin],[buffer_name]+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,[lag],[logsize],[tc],[bandwidth],[load_stats],[mem_stats],completion,scroll"`
+
