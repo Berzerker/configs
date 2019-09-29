@@ -10,7 +10,7 @@
 
 ## screenshot of the status bar
 
-![screenshot of status bar](http://i.imgur.com/oZdTw6s.png "screenshot")
+![screenshot of status bar](https://i.imgur.com/IkUZY6N.png "screenshot")
 
 # weechat
 
